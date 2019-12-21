@@ -1,0 +1,28 @@
+{
+  "name": "MediumAPI_RachmadZainiAlberto_DW135HWA1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachmadza/MediumAPI_RachmadZainiAlberto_DW135HWA1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachmadza/MediumAPI_RachmadZainiAlberto_DW135HWA1/issues"
+  },
+  "homepage": "https://github.com/rachmadza/MediumAPI_RachmadZainiAlberto_DW135HWA1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-group-routes": "^1.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.0.2",
+    "pg": "^7.15.1",
+    "sequelize": "^5.21.3"
+  }
+}
